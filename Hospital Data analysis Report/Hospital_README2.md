@@ -252,8 +252,8 @@ Based on the analysis, the following actions are recommended for Massachusetts G
 
 **Your Name**
 📧 your.email@gmail.com
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-🐙 [GitHub Profile](https://github.com/yourusername)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/namrata-ojha-743b50170/)
+🐙 [GitHub Profile]()
 
 ---
 
