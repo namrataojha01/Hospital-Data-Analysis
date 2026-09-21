@@ -250,10 +250,10 @@ Based on the analysis, the following actions are recommended for Massachusetts G
 
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Your Name**
-📧 your.email@gmail.com
+**Namrata Ojha**
+📧 namraaj.raaj@gmail.com
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/namrata-ojha-743b50170/)
-🐙 [GitHub Profile]()
+🐙 [GitHub Profile](https://github.com/namrataojha01/Hospital-Data-Analysis)
 
 ---
 
