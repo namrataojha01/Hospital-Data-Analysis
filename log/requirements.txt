@@ -1,0 +1,8 @@
+pandas
+NumPy
+matplotlib
+seaborn
+plotly
+Power BI connector
+missing no
+Jupiterlab
